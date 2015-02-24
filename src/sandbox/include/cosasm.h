@@ -1,0 +1,1 @@
+double cosasm( double x );
